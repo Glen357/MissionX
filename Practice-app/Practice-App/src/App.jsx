@@ -8,7 +8,10 @@ function App() {
       <div>
       <h1>Code For Fun</h1>
       </div>
-      
+      <div className='buttons'>
+        <button>Press Me!</button>
+
+      </div>
     </>
   )
 }
