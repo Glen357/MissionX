@@ -1,16 +1,13 @@
+.title_button {
+  display: flex;
+  margin-left: 40%;
+}
+
 .image_container {
   display: flex;
-  position: center;
-  
-}
-
-
-#root {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
-  text-align: center;
-}
-
-
-
+  position:absolute;
+  height: 80%;
+  margin-top: 3%;
+  margin-left: 15%;
+  padding: 5px; 
+};

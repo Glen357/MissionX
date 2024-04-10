@@ -18,6 +18,9 @@ const App = () => {
     </div>
     <div className='image_container'>
     <img src="2024-04-10 (2).png" alt="Glens Github" />
+    <a>
+      <link rel="url" href="https://github.com/Glen357" />
+    </a>
 
     </div>
     </>
