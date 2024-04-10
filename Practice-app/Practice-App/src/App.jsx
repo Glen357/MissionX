@@ -1,19 +1,21 @@
 // import { useState } from 'react'
 import './App.css'
+// import React from 'react';
+import Button from './Components/Button';
 
-function App() {
-  
+const App = () => {
+  const handleClick = () => {
+    console.log('Button clicked!');
+  };
+
   return (
     <>
-      <div>
+    <div>
       <h1>Code For Fun</h1>
-      </div>
-      <div className='buttons'>
-        <button>Press Me!</button>
-
-      </div>
+      <Button onClick={handleClick} text="Press Me!" />
+    </div>
     </>
-  )
-}
+  );
+};
 
-export default App
+export default App;
