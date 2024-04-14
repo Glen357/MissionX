@@ -16,11 +16,11 @@ const App = () => {
       <h1>Code For Fun</h1>
       <Button onClick={handleClick} text="Press Me!" />
     </div>
+    <a href='https://github.com/Glen357'>Checkout My GitHub Profile</a>
     <div className='image_container'>
-    <img src="2024-04-10 (2).png" alt="Glens Github" />
-    <a>
-      <link rel="url" href="https://github.com/Glen357" />
-    </a>
+      
+    <img src="2024-04-11 (2).png" alt="Glens Github" />
+    
 
     </div>
     </>
