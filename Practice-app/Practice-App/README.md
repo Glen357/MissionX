@@ -1,3 +1,11 @@
+In this "Practice App" I have used a Vite React.js template
+I have added some notes to components/buttons(.jsx and .css) and App (.jsx and .css)
+
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
